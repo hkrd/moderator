@@ -1,0 +1,6 @@
+click
+fastapi
+requests
+uvicorn
+openai
+tqdm
